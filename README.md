@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me (dont)
-- 😄 Pronouns: Never ask me again
+- 😄 Pronouns: Guess
 - ⚡ Fun fact: I'm racist, transphobic, misogenistic and homophobic(jk).
 
 <!---
