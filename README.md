@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Fedoorotikus
 - 👀 I’m interested in Coding and gaming(or both at once)
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning something, i guess
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me (dont)
+- 📫 How to reach me: @fedoorotikus on discord
 - 😄 Pronouns: Guess
 - ⚡ Fun fact: I'm racist, transphobic, misogenistic and homophobic(jk).
 
